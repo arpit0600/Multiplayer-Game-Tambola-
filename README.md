@@ -1,4 +1,4 @@
-# N-Player-Game
+# Multiplayer-Game(Tambola)
 This is a repo for N-Player-Game
 Let there be one Dealer and ‘n’ Players, for simplicity we will take value of n=4. The Dealer displays 10 random numbers (between 0 – 50)
 on a display screen with one-minute gap between the numbers. Each player is given a card containing 10
